@@ -111,7 +111,7 @@ else
     disp('-----------------------------------------------------------------------------------------------')
     disp('NOTE:')
     disp('Inverse Kinematics have been solved by locking the 3rd Joint. As the end effector is symmetric')
-    disp('Hence any vale for theta_7 will satisfy the problem, but is still calculated by utilizing')
+    disp('Hence any value for theta_7 will satisfy the problem, but is still calculated by utilizing')
     disp('Inverse Kinematics concepts and producing 2 values for theta_7')
     disp('-----------------------------------------------------------------------------------------------')
     disp(' ')

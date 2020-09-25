@@ -1,6 +1,6 @@
 # Kuka LBR iiwa 14 Forward and Inverse Kinematics for Weld Simulation
 
-Welding simulation is demonstrated by solving the inverse kinematics for a manipulator with 7 revolute joints. Kuka LBR iiwa 14 has 7-Degrees of Freedom with a spherical wrist configuration at the end-effector. With 7-DOFs, infinite solution may exist to reach to the target position and orientation, hence for to avoid that one of the joint was considered locked. Project was part of the academic coursework ENPM662-Introduction to Robot Modeling at the Univeristy of Maryland-College Park.
+Welding simulation is demonstrated by solving the inverse kinematics for a manipulator with 7 revolute joints. Kuka LBR iiwa 14 has 7-Degrees of Freedom with a spherical wrist configuration at the end-effector. With 7-DOFs, infinite solution may exist to reach to the target position and orientation. Hence to avoid the infinite solutions, one of the joint was considered locked. Project was part of the academic coursework ENPM662-Introduction to Robot Modeling at the Univeristy of Maryland-College Park.
 
 <p align="center">
 	<img src="https://github.com/varunasthana92/Kuka_Arm_Inverse_Kinematics/blob/master/images/weld_simulation.gif" width = 1000>
